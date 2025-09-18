@@ -1,5 +1,5 @@
 <h1>System developer .NET student</h1>
-<em>Greedy for knowledge, needy for progress</em><br>
+<em>Greedy for knowledge, needy for progress</em><br><br>
 
 
 <p>30 year old .NET/C# fullstack student. Here to log my progress, collab with others of likeminded drive and ambition, and to grow as both a developer and creator</p>
