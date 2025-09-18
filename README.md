@@ -1,10 +1,10 @@
 <h1>System developer .NET student</h1>
-<p style="font-style: italic;">Greedy for knowledge, needy for progress</p>
+<em>Greedy for knowledge, needy for progress</em>
 <hr>
 <p>30 year old .NET/C# fullstack student. Here to log my progress, collab with others of likeminded drive and ambition, and to grow as both a developer and creator</p>
 
-<p>![SunberryBlossom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![SunberryBlossom's Stats](https://github-readme-stats.vercel.app/api?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&count_private=true)</p>
+![SunberryBlossom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![SunberryBlossom's Stats](https://github-readme-stats.vercel.app/api?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
@@ -18,4 +18,4 @@
 
 <hr>
 <h2>Looking forward to work with ya!</h2>
-<p style="font-style: italic;">// Vira, aka Sunberry</p>
+<em>// Vira, aka Sunberry</em>
