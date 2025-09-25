@@ -8,7 +8,7 @@
 ![SunberryBlossom's Stats](https://github-readme-stats.vercel.app/api?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <h2>Some quick info about me</h2>
-<p>- 🔭 I’m currently working on building a portfolio website, alongside school labs.</p>
+<p>- 🔭 I’m currently working on school labs, and developing a text-based RPG called Lords of Arda with my friends here! Check it out in my repos</p>
 <p>- 🌱 I’m currently learning mostly C# and .NET, but studying HTML/CSS/JS on my own</p>
 <p>- 👯 I’m looking to collaborate on anything that is exciting, with anyone that is excited about it!</p>
 <p>- 💬 Ask me about my vision of my future life!</p>
