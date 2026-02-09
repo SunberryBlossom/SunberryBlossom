@@ -5,8 +5,11 @@
 <p>30 year old .NET/C# fullstack student. Here to log my progress, collab with others of likeminded drive and ambition, and to grow as both a developer and creator</p>
 <hr>
 
-![SunberryBlossom's Stats](https://github-readme-stats.vercel.app/api?username=SunberryBlossom&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
+<p align="left">
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
+  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
+  </p>
+  
 <h2>Some quick info about me</h2>
 <p>- 🔭 I’m currently working on school labs, and developing a text-based RPG called Lords of Arda with my friends here! Check it out in my repos</p>
 <p>- 🌱 I’m currently learning mostly C# and .NET, but studying HTML/CSS/JS on my own</p>
