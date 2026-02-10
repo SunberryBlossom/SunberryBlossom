@@ -4,9 +4,18 @@
 <hr>
 
 <p align="left">
-  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
-  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img alt="Github Stats" src="./profile/stats-dark.svg" height="200">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img alt="Top Languages" src="./profile/top-langs-dark.svg" height="200">
+  </picture>
+</p>
   
 <h2>Some quick info about me</h2>
 <p>- 🔭 Currently co-heading a hobby project named Munilytics with some of my dearest friends, check out the repo!</p>
