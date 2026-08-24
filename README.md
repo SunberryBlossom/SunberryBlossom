@@ -1,4 +1,4 @@
-<h1>.NET and unix enthusiast</h1>
+<h1>.NET and GNU/unix enthusiast</h1>
 
 <p align="left">
   <picture>
@@ -13,7 +13,3 @@
     <img alt="Top Languages" src="./profile/top-langs-dark.svg" height="200">
   </picture>
 </p>
-  
-<h2>Some quick info about me</h2>
-<p>- 👯 I’m looking to collaborate on anything that is exciting and preferably FOSS, with anyone that is excited about it!</p>
-<p>- 🐉 Pronouns: She/Her</p>
