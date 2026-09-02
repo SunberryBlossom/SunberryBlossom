@@ -1,4 +1,4 @@
-<h1>.NET and GNU/unix enthusiast</h1>
+<h1>.NET and GNU/Linux enthusiast</h1>
 
 <p align="left">
   <picture>
