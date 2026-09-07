@@ -13,3 +13,7 @@
     <img alt="Top Languages" src="./profile/top-langs-dark.svg" height="200">
   </picture>
 </p>
+
+<p>
+  If you're interested in what I am working at rn, check out my pinned projects
+</p>
