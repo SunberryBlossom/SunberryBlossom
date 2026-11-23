@@ -8,7 +8,5 @@
   </picture>
 </p>
 
-<p>Looking to sooner-rather-than-later lean a bit more into functional programming *and* system-development through Rust 🦀 </p>
-<p>
-  If you're interested in what I am working at rn, check out my pinned projects
-</p>
+<h2>I've started to migrate to Codeberg</h2>
+<p>you should too! find me <a href="https://codeberg.org/SunberryBlossom">here</a></p>
